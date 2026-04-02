@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou a Keity, desenvolvedora full stack e low-coder.</h1>
+<h1 align="left">Olá, me chamo Keity, desenvolvedora full stack e low-coder.</h1>
 
 ###
 
