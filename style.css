@@ -235,6 +235,7 @@ img { max-width: 100%; display: block; }
   background: var(--card); border: 1px solid var(--border);
   padding: 12px 14px; border-radius: var(--radius-sm); font-size: .9rem;
 }
+.about__facts li svg { flex-shrink: 0; }
 .about__card {
   background: var(--card); border: 1px solid var(--border);
   border-radius: var(--radius); padding: 28px;
