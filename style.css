@@ -88,6 +88,7 @@ img { max-width: 100%; display: block; }
   background: var(--grad);
   -webkit-background-clip: text; background-clip: text;
   -webkit-text-fill-color: transparent;
+  white-space: nowrap;
 }
 
 /* ---------- Buttons ---------- */
